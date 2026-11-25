@@ -85,8 +85,8 @@ A food redistribution platform designed to reduce food waste and connect donors 
 
 ## 🤝 Connect With Me
 
--- 🐙 GitHub: [@Veerajrao](https://github.com/Veerajrao)
--- 💼 LinkedIn: [Connect with me](https://www.linkedin.com/in/veeraj-rao-n04/)
+- 🐙 GitHub: [@Veerajrao](https://github.com/Veerajrao)
+- 💼 LinkedIn: [Connect with me](https://www.linkedin.com/in/veeraj-rao-n04/)
 
 ---
 
